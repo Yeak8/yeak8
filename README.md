@@ -1,16 +1,18 @@
-## Hi there 👋
+# [Global: HTML5 website template](http://buckymaler.com/global)
 
-<!--
-**Yeak8/yeak8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### [Featured on Freebiesbug](http://freebiesbug.com/psd-freebies/global-futuristic-one-page-portfolio-psd-html/)
 
-Here are some ideas to get you started:
+Global is a modern and sleek website template crafted for professionals in the creative industry. Global can serve as a single page portfolio or be easily modified to serve as the perfect beginning for a hip creative agency.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The original PSD is included and was provided by [Sergey Melnik](https://www.behance.net/SergeyMelnik).
+
+This project was developed with HTML5, Sass, jQuery, and Hammer.js.
+
+Performance basics are covered: assets are minified into single CSS and JS files, and the images are optimized.
+
+[LIVE PREVIEW](http://buckymaler.com/global)
+
+## Misc:
+
+* Follow Bucky: [Twitter](https://twitter.com/BuckyMaler), [GitHub](https://github.com/BuckyMaler)
+* Follow Sergey: [Dribbble](https://dribbble.com/sergeymelnik), [Bēhance](https://www.behance.net/SergeyMelnik)
